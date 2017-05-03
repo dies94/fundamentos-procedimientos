@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "estructura_de_control_de_flujo", "estructura_de_control_de_flujo\estructura_de_control_de_flujo.vbproj", "{D59878D8-A936-4707-AF4B-129A20F285ED}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "procedimientos", "procedimientos\procedimientos.vbproj", "{38B6B231-780F-484D-9E24-90F4E4036769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59878D8-A936-4707-AF4B-129A20F285ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59878D8-A936-4707-AF4B-129A20F285ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59878D8-A936-4707-AF4B-129A20F285ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59878D8-A936-4707-AF4B-129A20F285ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B6B231-780F-484D-9E24-90F4E4036769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B6B231-780F-484D-9E24-90F4E4036769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B6B231-780F-484D-9E24-90F4E4036769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B6B231-780F-484D-9E24-90F4E4036769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
