@@ -1,0 +1,48 @@
+Module tres_seis
+
+    Sub main()
+
+        Dim ciclo As Boolean = False
+        Dim total As Integer
+        Dim N As Single
+
+        Do
+
+            Console.Write("ingrese un numero: ")
+            N = Console.ReadLine()
+
+            validar(N, ciclo)
+
+        Loop Until ciclo
+
+        sumatoria(N, total)
+
+        Console.WriteLine("Total sumatoria de los cuadrado ente 1 Y N: " & total)
+
+        Console.ReadKey()
+
+    End Sub
+
+    Private Sub validar(ByRef N As Single, ByRef ciclo As Boolean)
+
+        Dim subN As Integer
+
+        If Math.Round(N, subN) = N And N > 0 Then
+            ciclo = True
+        End If
+
+    End Sub
+
+    Private Sub sumatoria(ByRef N As Single, ByRef total As Single)
+
+        For x As Integer = 1 To N
+
+            total += x ^ 2
+
+        Next
+
+
+
+    End Sub
+
+End Module
