@@ -1,0 +1,44 @@
+﻿Module tres_cinco
+
+    Sub main()
+
+
+
+        Dim R, H, C As Single
+
+
+        Do
+            R = Console.ReadLine
+            H = Console.ReadLine
+
+            validar(R, H, C)
+
+        Loop Until C
+
+        Console.WriteLine("La volumen es: " & C)
+
+        Console.ReadKey()
+
+    End Sub
+
+    Private Sub validar(R As Single, H As Single, ByRef C As Single)
+
+        If R > 0 And H > 0 Then
+            C = calculo(R, H)
+        End If
+
+    End Sub
+
+    Private Function calculo(R As Single, H As Single)
+
+        Dim subC As Single
+
+        subC = 3.14159265 * R ^ 2 * H
+
+        Return subC
+
+    End Function
+
+
+
+End Module

@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\bin\Debug\Estructura de datos.exe.config
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\bin\Debug\Estructura de datos.exe
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\bin\Debug\Estructura de datos.pdb
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\bin\Debug\Estructura de datos.xml
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\obj\Debug\Estructura de datos.vbprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\obj\Debug\Estructura_de_datos.Resources.resources
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\obj\Debug\Estructura de datos.vbproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\obj\Debug\Estructura de datos.exe
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\obj\Debug\Estructura de datos.xml
+C:\Users\Diego\Documents\Visual Studio 2015\Hola Mundo\estructura_de_control_de_flujo\Estructura de datos\obj\Debug\Estructura de datos.pdb
